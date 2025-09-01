@@ -6,7 +6,7 @@ import joblib
 model = joblib.load("model.pkl")
 print("✅ Modelo cargado correctamente")
 
-# 2. Definir features en el mismo orden
+# 2. Definir features
 features = [
     "koi_period",
     "koi_duration",
