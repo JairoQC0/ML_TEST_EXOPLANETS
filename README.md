@@ -22,4 +22,5 @@ Se entrena un modelo **Random Forest** con parámetros básicos y se pueden real
    ```bash
    git clone https://github.com/JairoQC0/ML_TEST_EXOPLANETS.git
    cd MLTestExoplanets
-  ```
+´´´
+
