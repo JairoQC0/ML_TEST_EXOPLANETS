@@ -9,7 +9,7 @@ from sklearn.metrics import classification_report
 df = pd.read_csv("data/cumulative.csv")
 print(f"Dataset cargado: {df.shape[0]} filas, {df.shape[1]} columnas")
 
-# 2. Definir las features importantes
+# 2. Definir las features 
 features = [
     "koi_period",
     "koi_duration",
