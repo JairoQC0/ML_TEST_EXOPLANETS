@@ -45,3 +45,4 @@ print(classification_report(y_test, y_pred))
 # 7. Guardar modelo entrenado
 joblib.dump(model, "model.pkl")
 print("\n✅ Modelo guardado como model.pkl")
+#prueba de commit
