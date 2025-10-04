@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 
 # 1. Cargar dataset
-df = pd.read_csv("data/Kepler.csv")
+df = pd.read_csv("data/cumulative.csv")
 print(f"Dataset cargado: {df.shape[0]} filas, {df.shape[1]} columnas")
 
 # 2. Definir las features 
